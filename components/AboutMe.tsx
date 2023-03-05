@@ -16,7 +16,9 @@ const AboutMe = (props: Props) => {
           />
         </div>
         <div className='flex-1'>
-          <p>I'm TDev. Someone who loves technology and explores the world. Currently I am a software engineer, website programmer. The main language I'm using is PHP and I also make interfaces using REACTJS and VUEJS. I am a person who loves to learn and discover new things.
+          <p>
+            Im TDev. Someone who loves technology and explores the world.
+            Currently I am a software engineer, website programmer. The main language Im using is PHP and I also make interfaces using REACTJS and VUEJS. I am a person who loves to learn and discover new things.
           </p>
         </div>
       </div>
